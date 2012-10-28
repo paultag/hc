@@ -1,0 +1,5 @@
+hc (1.0.0) wicked; urgency=low
+
+  * Initial packaging.
+
+ -- Paul Tagliamonte <paultag@debian.org>  Thu, 25 Oct 2012 22:52:26 -0400
